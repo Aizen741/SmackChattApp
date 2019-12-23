@@ -61,6 +61,6 @@ class MainActivity : AppCompatActivity() {
 
     }
     fun addChannelClicked(view: View){
-        
+
     }
 }
